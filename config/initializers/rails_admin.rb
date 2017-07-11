@@ -15,7 +15,7 @@ config.main_app_name = ["iBarbosa", "A feirinha de antigamente, agora no seu bol
 
 
 config.navigation_static_links = {
-  'Parceiros' => 'http://youtube.com/VentusKHBR'
+  'Parceiros' => 'https://www.youtube.com/channel/UCSlNYAhyb-DWZlRGWPkdE3w'
 }
 
 config.navigation_static_label = "Links Úteis"
