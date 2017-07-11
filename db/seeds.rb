@@ -21,6 +21,23 @@ User.create name: 'Rudrigo',   kind: :salesman, email: 'salesman4@teste.com', pa
 User.create name: 'Andrigo', kind: :manager, email: 'manager4@teste.com', password: 123456
 User.create name: 'Bdrigo', kind: :cliente, email: 'client4@teste.com', password: 123456
 
+
+User.create name: 'João',   kind: :salesman, email: 'salesman5@teste.com', password: 123456
+User.create name: 'Mario', kind: :manager, email: 'manager5@teste.com', password: 123456
+User.create name: 'Israel', kind: :cliente, email: 'client5@teste.com', password: 123456
+User.create name: 'Diego',   kind: :salesman, email: 'salesman6@teste.com', password: 123456
+User.create name: 'eugenio', kind: :manager, email: 'manager6@teste.com', password: 123456
+User.create name: 'toin', kind: :cliente, email: 'client6@teste.com', password: 123456
+User.create name: 'Germano',   kind: :salesman, email: 'salesman7@teste.com', password: 123456
+User.create name: 'Matheus', kind: :manager, email: 'manager7@teste.com', password: 123456
+User.create name: 'Bruno', kind: :cliente, email: 'client7@teste.com', password: 123456
+User.create name: 'Pato',   kind: :salesman, email: 'salesman8@teste.com', password: 123456
+User.create name: 'Daniel', kind: :manager, email: 'manager8@teste.com', password: 123456
+User.create name: 'Luis victor', kind: :cliente, email: 'client8@teste.com', password: 123456
+User.create name: 'Yvens',   kind: :salesman, email: 'salesman9@teste.com', password: 123456
+User.create name: 'Bebeto', kind: :manager, email: 'manager9@teste.com', password: 123456
+User.create name: 'Romario', kind: :cliente, email: 'client9@teste.com', password: 123456
+
  
 
  
