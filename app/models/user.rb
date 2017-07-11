@@ -5,6 +5,4 @@ class User < ApplicationRecord
          :recoverable, :rememberable, :trackable, :validatable
 
   enum kind: [:salesman, :manager, :cliente]
-  
-
 end
